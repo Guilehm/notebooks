@@ -8,6 +8,8 @@ verify_ssl = true
 [packages]
 pandas = "*"
 matplotlib = "*"
+sklearn = "*"
+scikit-learn = "*"
 
 [requires]
 python_version = "3.6"
